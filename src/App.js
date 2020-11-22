@@ -11,6 +11,7 @@ function App() {
     <>
       <GlobalStyle />
       <Home />
+      <h2>sae</h2>
     </>
   );
 }
